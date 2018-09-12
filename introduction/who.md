@@ -27,7 +27,7 @@ Any use of a trademarked name without a trademark symbol is for readability purp
 - WordPress is a registered trademark of the WordPress Foundation
 
 ## Disclaimer
-The information is this book is provided without warranty. The lead author, contributors, and publisher have neither liability nor responsibility to any person or entity related to any loss or damages arising from the information contained in this book.
+The information in this book is provided without warranty. The lead author, contributors, and publisher have neither liability nor responsibility to any person or entity related to any loss or damages arising from the information contained in this book.
 
 {% footer %}
 {% endfooter %}
